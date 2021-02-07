@@ -14,4 +14,4 @@ I am Daniil and i love programming. Since June 2020 i have been learning fronten
 * GIT
 
 ### My projects^
-* [webdev]https://dansitnikov.github.io/webdev/webdev/
+* [webdev](https://dansitnikov.github.io/webdev/webdev/)
