@@ -7,7 +7,7 @@ I am Daniil and i love programming. Since June 2020 i have been learning fronten
 * JavaScript
 * Figma/Avacode
 
-### Besides this, I've used:
+### Besides this, I have some experience in:
 * Leaflet/Cartjs
 * Webpack
 * Phaser 3 
