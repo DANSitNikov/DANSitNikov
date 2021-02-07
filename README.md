@@ -13,5 +13,7 @@ I am Daniil and i love programming. Since June 2020 i have been learning fronten
 * Phaser 3 
 * GIT
 
-### My projects^
-* [webdev](https://dansitnikov.github.io/webdev/webdev/)
+### My projects:
+* HTML/CSS
+** [webdev](https://dansitnikov.github.io/webdev/webdev/) - static markup
+
