@@ -18,7 +18,7 @@ I am Daniil and i love programming. Since June 2020 i have been learning fronten
 * HTML/CSS
   * [webdev](https://dansitnikov.github.io/webdev/webdev/) - static markup
   * [shelter](https://dansitnikov.github.io/shelter/shelter/pages/main/) - markup + JS (popup, pagination, slider)
-*  JavaScript (ES6):
+* JavaScript (ES6):
   * [momentum](https://dansitnikov.github.io/momentum/dist/) - copy of momentum in google (inspirational quotes, time, whether in your sity, background changes every hour)
   * [gem-puzzle](https://dansitnikov.github.io/gem-puzzle/dist/) - classic gem-puzzle game
   * [english for kids](https://dansitnikov.github.io/english-for-kids/dist/#page0) - the app, where children can learn english (SPA)
