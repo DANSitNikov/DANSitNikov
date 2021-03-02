@@ -5,7 +5,7 @@ I am Daniil and i love programming. Since June 2020 i have been learning fronten
 * HTML
 * CSS3/SCSS
 * JavaScript
-* Figma/Avacode
+* Figma/Avocode
 
 ### Besides this, I have some experience in:
 * Leaflet/Cartjs
