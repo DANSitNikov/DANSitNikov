@@ -5,6 +5,8 @@ I am Daniil and i love programming. Since June 2020 i have been learning fronten
 * HTML
 * CSS3/SCSS
 * JavaScript
+* React
+* Redux
 * Figma/Avocode
 
 ### Besides this, I have some experience in:
@@ -12,6 +14,7 @@ I am Daniil and i love programming. Since June 2020 i have been learning fronten
 * Webpack
 * Phaser 3 
 * GIT
+* Material-ui, Bootstrap
 * Team development
 
 ### My projects:
