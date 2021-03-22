@@ -15,6 +15,7 @@ I am Daniil and i love programming. Since June 2020 i have been learning fronten
 * Phaser 3 
 * GIT
 * Material-ui, Bootstrap
+* axios
 * Team development
 
 ### My projects:
