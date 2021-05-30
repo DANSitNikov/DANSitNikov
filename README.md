@@ -30,6 +30,8 @@ I am Daniil and i love programming. Since September 2020 i have been learning fr
 * React projects:
   * [travel app](https://travelapprsschool.netlify.app/) - application where you can choose country for travel **(team development)**, [code is here](https://github.com/DANSitNikov/travelApp)
   * [sapper: dragon edition](https://dansitnikov-react-game-sapper.netlify.app/aboutGame) - modern version of sapper, [code is here](https://github.com/DANSitNikov/react-game/tree/react-game)
-* **BEST PROJECTS**:
+* Next.js project:
+  * notapad - it's not deployed yet, [code is here](https://github.com/DANSitNikov/notes-project)
+* **BEST PROJECT**:
   * [limbo game](https://longlegsjourney.netlify.app/) - this is a copy of original limbo. It was really intresting and hard project (you can read about it right [here](https://dazik.medium.com/rs-school-%D0%BE%D1%82-%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%BA%D0%B0-%D0%B4%D0%BE-%D0%B4%D0%B6%D1%83%D0%BD%D0%B0-%D0%B7%D0%B0-%D0%BF%D0%BE%D0%BB%D0%B3%D0%BE%D0%B4%D0%B0-48b045378e0c)) **(team development)**, [code is here](https://github.com/DANSitNikov/rsclone)
-  * [Rs Lang](https://rs-lang-team-110.netlify.app/) - this is a copy of Lindualeo app, [code is here](https://github.com/DANSitNikov/typescriptRslang/tree/develop) (**React, team development**)
+ <!-- * [Rs Lang](https://rs-lang-team-110.netlify.app/) - this is a copy of Lindualeo app, [code is here](https://github.com/DANSitNikov/typescriptRslang/tree/develop) (**React, team development**)-->
