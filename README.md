@@ -8,6 +8,7 @@ I am Daniil and i love programming. Since September 2020 i have been learning fr
 * React
 * Redux
 * Next.js (basics)
+* TypeScript (basics)
 * Figma/Avocode
 
 ### Besides this, I have some experience in:
