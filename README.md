@@ -17,6 +17,7 @@ I am Daniil and i love programming. Since September 2020 i have been learning fr
 * Firebase
 * Phaser 3 
 * GIT
+* styled-components
 * Material-ui, Bootstrap
 * axios
 * Team development
