@@ -29,7 +29,7 @@ I am Daniil and i love programming. Since September 2020 i have been learning fr
   * [momentum](https://rolling-scopes-school.github.io/dansitnikov-JS2020Q3/momentum/dist/) - copy of momentum in google (inspirational quotes, time, whether in your sity, background changes every hour)
   * [gem-puzzle](https://rolling-scopes-school.github.io/dansitnikov-JS2020Q3/the-gem-puzzle/dist/) - classic gem-puzzle game
   * [english for kids](https://rolling-scopes-school.github.io/dansitnikov-JS2020Q3/english-for-kids/dist/#page0) - the app, where children can learn english (SPA)
-  * [covid dashboard](https://rolling-scopes-school.github.io/dansitnikov-JS2020Q3/covid-dashboard/dist/) - the app, where you can monitor covid statistic from any country
+  * [covid dashboard](https://rolling-scopes-school.github.io/dansitnikov-JS2020Q3/covid-dashboard/dist/) - the app, where you can monitor covid statistic from any country (may be some problems with API)
 * React projects:
   * [travel app](https://travelapprsschool.netlify.app/) - application where you can choose country for travel **(team development)**, [code is here](https://github.com/DANSitNikov/travelApp)
   * [sapper: dragon edition](https://dansitnikov-react-game-sapper.netlify.app/aboutGame) - modern version of sapper, [code is here](https://github.com/DANSitNikov/react-game/tree/react-game)
