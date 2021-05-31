@@ -7,11 +7,13 @@ I am Daniil and i love programming. Since September 2020 i have been learning fr
 * JavaScript
 * React
 * Redux
+* Next.js (basics)
 * Figma/Avocode
 
 ### Besides this, I have some experience in:
 * Leaflet/Cartjs
 * Webpack
+* Firebase
 * Phaser 3 
 * GIT
 * Material-ui, Bootstrap
