@@ -26,20 +26,3 @@
 ![Styled](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![TW](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MUI](https://img.shields.io/badge/material%20ui-%230081cb.svg?logo=material-ui&logoColor=white&style=for-the-badge)
-
-React
-Next.js
-TypeScript
-NX
-T3 stack
-Redux
-React Query
-Tailwind
-Material UI
-Styled Components
-Sass
-ESLint
-Prettier
-Prisma
-Storybook
-Cypress
