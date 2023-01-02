@@ -1,5 +1,11 @@
 ## You're welcome!!!
-I am Daniil and i love programming. Since September 2020 i have been learning frontend development. And you know, i think it's my passion.
+
+<a href="https://t.me/DanSit13">
+  <img align="left" alt="Daniil's Telegram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/telegram.png" />
+</a>
+<a href="https://www.linkedin.com/in/daniil-sitnikov/">
+  <img align="left" alt="Daniil's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 ### For this period, I've learned such stack of technologies:
 * HTML
