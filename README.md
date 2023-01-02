@@ -20,6 +20,7 @@
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 
 ![Prisma](https://img.shields.io/badge/Prisma-333333?style=for-the-badge&logo=prisma&logoColor=white)
+![NX](https://img.shields.io/badge/NX_workspace-64748b?style=for-the-badge&logo=nx&logoColor=white)
 
 ![Styled](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![TW](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
