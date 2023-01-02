@@ -10,28 +10,6 @@
 <br />
 
 ## My tech stack:
-* React
-* Next.js
-
-
-React
-Next.js
-TypeScript
-NX
-T3 stack
-Redux
-React Query
-Tailwind
-Material UI
-Styled Components
-Sass
-ESLint
-Prettier
-Prisma
-Storybook
-Cypress
-
-## My tech stack includes, but is not limited by:
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -57,3 +35,21 @@ Cypress
 * Material-ui, Bootstrap
 * axios
 * Team development
+
+
+React
+Next.js
+TypeScript
+NX
+T3 stack
+Redux
+React Query
+Tailwind
+Material UI
+Styled Components
+Sass
+ESLint
+Prettier
+Prisma
+Storybook
+Cypress
