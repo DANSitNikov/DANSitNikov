@@ -7,6 +7,7 @@
   <img align="left" alt="Daniil's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+
 ### For this period, I've learned such stack of technologies:
 * HTML
 * CSS3/SCSS
