@@ -1,7 +1,7 @@
 <img align="right" alt="banner" width="100%" src="https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg" />
 &nbsp;
 <h1 align="center">Hi 👋, Daniil is here</h1>
-<h3 align="center">Creative Frontend Developer</h3>
+<h3>Creative Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e471hkpqmyrxxjsrmpwc0qznaer384n5ba97bm9u7gs&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 📫 How to reach me - **sitnikovdan13@gmail.com**
