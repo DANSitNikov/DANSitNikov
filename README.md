@@ -4,13 +4,13 @@
 <h3 align="center">Creative Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e471hkpqmyrxxjsrmpwc0qznaer384n5ba97bm9u7gs&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-(description)
-
-- 📫 How to reach me **sitnikovdan13@gmail.com**
+- 📫 How to reach me - **sitnikovdan13@gmail.com**
+- 📰 Check my CV - **https://github.com/DANSitNikov/CV**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniil-sitnikov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniil-sitnikov" height="30" width="40" /></a>
+    <a href="https://t.me/DanSit13" target="blank"><img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="daniil-sitnikov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
