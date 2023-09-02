@@ -4,9 +4,7 @@
 <h3 align="center">Creative Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e471hkpqmyrxxjsrmpwc0qznaer384n5ba97bm9u7gs&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently working on [my own website](https://github.com/DANSitNikov/my-website)
-
-- 🌱 I’m currently learning [**Astro**](https://astro.build/)
+(description)
 
 - 📫 How to reach me **sitnikovdan13@gmail.com**
 
